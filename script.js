@@ -38,13 +38,12 @@ const cache = frutas.length;
 //     contador--;
 // }
 
-console.log("OK");
+//console.log("OK");
 
-let entradausuario = +prompt("Digite um número:");
-
-
+//let entradausuario = +prompt("Digite um número:");
 
 
-while (entradausuario != 2) {
-    console.log((entradausuario = +prompt("Digite um número:")));
-}
+
+
+//while (entradausuario != 2) {
+//    console.log((entradausuario = +prompt("Digite um número:")));
